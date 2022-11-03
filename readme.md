@@ -7,7 +7,7 @@
 
 ## Запуск
 
-1. Склонировать репозиторий `git clone`
+1. Склонировать репозиторий `git clone https://github.com/immacool/github-parser.git`
 2. Установить зависимости `pip install -r requirements.txt`
 3. Запустить скрипт `python main.py --help` для получения справки по аргументам
 
